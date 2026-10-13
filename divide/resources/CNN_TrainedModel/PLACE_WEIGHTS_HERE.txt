@@ -1,0 +1,2 @@
+Trained CNN weights are not distributed.
+Put best_model.pt (state_dict of EfficientNet-b0 with the class list in class_variations.json) in this folder, or set the environment variable BLE_MODEL_PATH.

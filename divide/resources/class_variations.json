@@ -1,0 +1,244 @@
+{
+  "class_order": [
+    "간지및표지",
+    "공내재하시험",
+    "공내전단시험",
+    "다짐시험",
+    "밀도시험",
+    "본문",
+    "사진첩",
+    "시추공영상촬영",
+    "시추주상도",
+    "시험요약페이지",
+    "실내토질시험",
+    "암석삼축압축강도시험",
+    "암석일축압축강도시험",
+    "암석절리면전단시험",
+    "점하중시험",
+    "지반조사위치도",
+    "지층단면도",
+    "직접전단시험",
+    "콘관입시험",
+    "토질삼축압축시험",
+    "토질일축압축시험",
+    "표준압밀시험",
+    "하향식탄성파시험",
+    "하향식탄성파시험_본문",
+    "현장베인시험",
+    "현장수압시험",
+    "현장투수시험"
+  ],
+  "class_variations": {
+    "간지및표지": [],
+    "공내재하시험": [
+      "공내재하시험",
+      "PRESSUREMETER TEST",
+      "ELASTMETER TEST",
+      "LATERAL LOADING TEST",
+      "LLT TEST",
+      "GOODMAN JACK TEST"
+    ],
+    "공내전단시험": [
+      "공내전단시험",
+      "시추공전단시험",
+      "BORE HOLE SHEAR TEST",
+      "BST"
+    ],
+    "다짐시험": [
+      "다짐시험",
+      "다짐 및 실내CBR시험",
+      "실내 C.B.R 시험",
+      "compaction & CBR test",
+      "COMPACTION TEST"
+    ],
+    "밀도시험": [
+      "밀도시험",
+      "현장밀도시험",
+      "현장들밀도시험",
+      "모래치환",
+      "단위중량"
+    ],
+    "본문": [],
+    "사진첩": [
+      "사진첩",
+      "사진대지",
+      "현장사진대지",
+      "시추조사사진",
+      "현장사진",
+      "시추전경사진",
+      "공정사진철"
+    ],
+    "시추공영상촬영": [
+      "시추공영상촬영",
+      "공내영상촬영",
+      "BIPS",
+      "시추공벽 촬영"
+    ],
+    "시추주상도": [
+      "시추주상도",
+      "지질주상도",
+      "토질주상도",
+      "DRILL LOG",
+      "BOREHOLE LOG"
+    ],
+    "시험요약페이지": [
+      "ROCK TEST DATA",
+      "ROCK LAB TEST SUMMARY",
+      "ROCK CORE TEST DATA",
+      "ROCK PROPERTY DATA",
+      "ROCK TEST SUMMARY TABLE",
+      "ROCK CORE TEST RESULT",
+      "SOIL TEST DATA",
+      "SOIL LAB TEST SUMMARY",
+      "SOIL TEST SUMMARY TABLE",
+      "SUMMARY OF SOIL TEST RESULTS",
+      "SOIL TEST"
+    ],
+    "실내토질시험": [
+      "실내토질시험",
+      "입경가적곡선",
+      "입도시험",
+      "CLASSIFICATION OF A SOIL",
+      "GRAIN SIZE DISTRIBUTION CURVES",
+      "GRAIN SIZE ANALYSIS TEST",
+      "GRADATION CURVES",
+      "G R A I N S I Z E",
+      "토질물성시험"
+    ],
+    "암석삼축압축강도시험": [
+      "암석삼축압축강도",
+      "rock triaxial compression test"
+    ],
+    "암석일축압축강도시험": [
+      "암석일축압축강도",
+      "실내암석시험",
+      "암석 물성/일축압축강도 시험 결과",
+      "UNCONFINED COMPRESSION TEST FOR ROCK CORE",
+      "ROCK UNCONFINED COMPRESSION TEST",
+      "ROCK DEFORMABILITY TEST",
+      "UNCONFINED COMPRESSION TEST"
+    ],
+    "암석절리면전단시험": [
+      "암석절리면전단시험",
+      "Direct Shear Test for Joint"
+    ],
+    "점하중시험": [
+      "점하중시험",
+      "점재하 시험",
+      "point load test"
+    ],
+    "지반조사위치도": [
+      "지반조사위치도",
+      "시추조사위치도",
+      "조사위치도",
+      "시추위치도",
+      "조사위치평면도",
+      "지질조사 위치도",
+      "조사 평면도",
+      "토질조사 위치도",
+      "시추공 배치도",
+      "시추조사위치평면도"
+    ],
+    "지층단면도": [
+      "지층단면도",
+      "단면도",
+      "지질 단면도",
+      "지층분포도"
+    ],
+    "직접전단시험": [
+      "직접전단시험",
+      "Direct shear test"
+    ],
+    "콘관입시험": [
+      "콘관입시험",
+      "Cone penetration test",
+      "선단저항",
+      "주면마찰"
+    ],
+    "토질삼축압축시험": [
+      "토질삼축압축시험",
+      "삼축압축시험",
+      "삼축시험",
+      "triaxial compression test"
+    ],
+    "토질일축압축시험": [
+      "토질일축압축시험",
+      "일축압축시험",
+      "일축시험",
+      "unconfined compression test"
+    ],
+    "표준압밀시험": [
+      "표준압밀시험",
+      "압밀시험",
+      "consolidation test"
+    ],
+    "하향식탄성파시험": [
+      "하향식탄성파",
+      "하향식탄성파시험",
+      "다운홀테스트",
+      "공내탄성파탐사",
+      "공내하향식탄성파탐사",
+      "하향식탄성파탐사",
+      "탄성파탐사",
+      "전단탄성파시험",
+      "현장탄성파속도시험",
+      "전단파시험성과",
+      "하향식공내탄성파탐사",
+      "DOWNHOLE시험",
+      "SPS검층",
+      "DOWNHOLETEST",
+      "DHT",
+      "SEISMIC TEST",
+      "SUSPENSION PS",
+      "DOWNHOLE",
+      "탄성파",
+      "전단파",
+      "Vs",
+      "Vp"
+    ],
+    "하향식탄성파시험_본문": [
+      "하향식탄성파",
+      "하향식탄성파시험",
+      "다운홀테스트",
+      "공내탄성파탐사",
+      "공내하향식탄성파탐사",
+      "하향식탄성파탐사",
+      "탄성파탐사",
+      "전단탄성파시험",
+      "현장탄성파속도시험",
+      "전단파시험성과",
+      "하향식공내탄성파탐사",
+      "DOWNHOLE시험",
+      "SPS검층",
+      "DOWNHOLETEST",
+      "DHT",
+      "SEISMIC TEST",
+      "SUSPENSION PS",
+      "DOWNHOLE",
+      "탄성파",
+      "전단파",
+      "Vs",
+      "Vp"
+    ],
+    "현장베인시험": [
+      "현장베인시험",
+      "FIELD VANE SHEAR TEST",
+      "FVT"
+    ],
+    "현장수압시험": [
+      "현장수압시험",
+      "공내수압시험",
+      "암반수압시험",
+      "WATER PRESSURE TEST",
+      "LUGEON TEST"
+    ],
+    "현장투수시험": [
+      "현장투수시험",
+      "투수시험",
+      "FIELD PERMEABILITY IN BORE HOLES",
+      "FIELD PERMEABILITY TEST",
+      "FALLING HEAD TEST",
+      "PERMEABILITY TEST"
+    ]
+  }
+}

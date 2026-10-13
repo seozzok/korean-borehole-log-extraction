@@ -1,0 +1,13 @@
+# Tested with Python 3.8 on Windows 10 (see README for the measured environment).
+# Install PyTorch/torchvision for your CUDA version from https://pytorch.org first
+# (reported measurements: PyTorch 2.4.1, CUDA 12.1).
+torch
+torchvision
+efficientnet_pytorch
+PyMuPDF
+opencv-python
+numpy
+Pillow
+openpyxl
+customtkinter
+tksheet
