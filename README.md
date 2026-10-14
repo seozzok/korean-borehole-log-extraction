@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-If you use this code, please cite the article (DOI to be added on publication) and this archive (Zenodo DOI).
+If you use this code, please cite the article (DOI to be added on publication) and this archive (https://doi.org/10.5281/zenodo.23339843).
 
 ## License
 
